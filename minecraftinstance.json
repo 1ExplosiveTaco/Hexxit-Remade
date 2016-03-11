@@ -5407,6 +5407,57 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null
+    },
+    {
+      "addonID": 226294,
+      "gameInstanceID": "d036d641-ef49-4022-8d15-57984399e9a2",
+      "installedFile": {
+        "Id": 2223140,
+        "FileName": "MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar",
+        "FileNameOnDisk": "MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar",
+        "FileDate": "2014-12-29T00:24:02",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2223/140/MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 994252901
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3673893346
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 1858543682
+          }
+        ],
+        "PackageFingerprint": 4216728450,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-03-11T01:08:18.6014785Z",
+      "dateUpdated": "2016-03-11T01:08:18.6029788Z",
+      "dateLastUpdateAttempted": "2016-03-11T01:08:18.6029788Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
     }
   ]
 }
